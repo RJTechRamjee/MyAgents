@@ -27,7 +27,7 @@ The Copilot Coding Agent is an autonomous AI agent that can read, write, and exe
 5. Review the PR, leave feedback, and Copilot will iterate based on your comments.
 
 **Tips:**
-- Be specific in your issue description — include expected behaviour, file paths, and acceptance criteria.
+- Be specific in your issue description — include expected behavior, file paths, and acceptance criteria.
 - Use checklists in issues to guide the agent through multi-step work.
 - Mention relevant files or functions in the issue body to help the agent focus.
 
